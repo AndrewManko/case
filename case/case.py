@@ -3,7 +3,6 @@ Developer: Manko A.
 
 """
 
-
 import urllib.request
 
 with open('input.txt', 'r') as f_in:
